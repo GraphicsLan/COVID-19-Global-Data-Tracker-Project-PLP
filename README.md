@@ -37,8 +37,3 @@ The file can be runned in Jupyter Notebook, Colab Notebook or any other notebook
 4. Covid-19 Vaccinations administration rate increased over time from 2021 march all the way to 2022 march.
 5. More vaccines were administered in 2022 for the many countries
 
-- The number of deaths and cases increased exponentially over time from 2021 to 2022 .The highest deaths and cases were in 2022.
-   United States had the highest number of deaths and covid cases recorded between 2021 and 2022.
-- 3. Daily recorded new cases were at peak in 2021 May and in 2022 from January to 2022 march .More cases were recorded in 2022.
-- 4. Covid-19 Vaccinations administration rate increased over time from 2021 march all the way to 2022 march.
-- 5. More vaccines were administered in 2022 for the many countries
