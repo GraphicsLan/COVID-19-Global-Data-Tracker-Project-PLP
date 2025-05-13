@@ -25,6 +25,7 @@ The data is analyzed in Jupyter Notebook using the following tools:
 
 ---
 **How to run/view the project**
+
 The project can be viewed by clicking the COVID-19 trends.ipynb file .
 The file can be runned in Jupyter Notebook, Colab Notebook or any other notebook that supports python librariess.
 
